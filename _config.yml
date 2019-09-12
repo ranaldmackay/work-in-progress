@@ -1,0 +1,6 @@
+title: A Work in Progress
+description: Online musings and meanderings
+
+permalink: /:categories/:year/:short_month/:slug
+
+livereload: true
